@@ -9,7 +9,7 @@ const writeFileAsync = util.promisify(fs.writeFile);
 // array of questions for user
 const questions = () =>
   inquirer.prompt([
-   /* {
+    {
       type: 'input',
       name: 'title',
       message: 'Please enter the title of your project',
@@ -28,14 +28,14 @@ const questions = () =>
       type: 'input',
       name: 'usage',
       message: 'Please enter usage information',
-    },*/
+    },
     {
       type: 'rawlist',
       name: 'license',
       message: 'Please enter license type',
       choices: ['Apache 2.0', 'GNU General Public v3.0', 'MIT', 'BSD-2-Clause', 'BSD-3-Clause', 'Boost Software License', 'Creative Commons Zero v1.0 Universal']
     },
-   /* {
+    {
       type: 'input',
       name: 'contribution',
       message: 'Please enter contributing information',
@@ -54,13 +54,8 @@ const questions = () =>
       type: 'input',
       name: 'email',
       message: 'Please enter email address for questions section',
-    },*/
+    },
   ]);
-
-
-// function to write README file
-function writeToFile(fileName, data) {
-}
 
 // function to initialize program
 const init = async () => {

@@ -1,6 +1,9 @@
-# **title**
-  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+# **README Generator**
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+  ## Description
+   This project uses Inquirer.js to generate a professional README from user input in the command line. The user is prompted to answer various questions about the project and select the license from a list, before a markdown file is generated with all the inputted data. A badge for the license is displayed at the top, and there are internal links for each section and an external link to the users GitHub profile.   
+  
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -10,26 +13,26 @@
   * [Tests](#tests)
   * [Questions](#questions)
   
-  ## Description
-  Lorem ipsum dolor sit amet. Non animi facilis et consequatur asperiores aut modi aspernatur. In repudiandae tenetur aut nihil assumenda aut obcaecati quos ex mollitia dolores sit sunt quia quo nobis excepturi. Et vero quam aut quidem dolorum sit internos internos hic quia illum. Eum minus laudantium et quibusdam recusandae cum consequatur cumque ex commodi blanditiis et dolorem cumque est explicabo expedita qui quia sint? Hic dignissimos necessitatibus ut aspernatur distinctio et quia mollitia eum officia quam hic accusamus ducimus sit earum voluptates et dolores distinctio. Aut nihil ipsum et autem corrupti in quisquam dicta sed suscipit asperiores. Ut corporis molestiae et placeat deserunt aut voluptas consequatur. Hic totam blanditiis est magni exercitationem ut deleniti pariatur sit doloremque ipsa est quia eveniet id voluptas ipsa. Aut autem possimus sit beatae amet sit nihil corporis et rerum sint sit cumque vero et iusto dolor qui impedit nesciunt. Aut maiores veritatis sit illum sequi et blanditiis architecto. Id Quis minima non voluptas laudantium quo quis galisum non ipsa quos aut aspernatur quisquam est officia porro aut velit commodi. In omnis eligendi cum numquam velit qui dolorem similique. Ea velit mollitia et tempora vero est minus pariatur? Et expedita nisi a laborum eius et reprehenderit autem ab eaque placeat est voluptatum excepturi.  
-
   ## Installation
-  Lorem ipsum dolor sit amet. Non animi facilis et consequatur asperiores aut modi aspernatur. In repudiandae tenetur aut nihil assumenda aut obcaecati quos ex mollitia dolores sit sunt quia quo nobis excepturi. Et vero quam aut quidem dolorum sit internos internos hic quia illum. Eum minus laudantium et quibusdam recusandae cum consequatur cumque ex commodi blanditiis et dolorem cumque est explicabo expedita qui quia sint? Hic dignissimos necessitatibus ut aspernatur distinctio et quia mollitia eum officia quam hic accusamus ducimus sit earum voluptates et dolores distinctio. Aut nihil ipsum et autem corrupti in quisquam dicta sed suscipit asperiores. Ut corporis molestiae et placeat deserunt aut voluptas consequatur. Hic totam blanditiis est magni exercitationem ut deleniti pariatur sit doloremque ipsa est quia eveniet id voluptas ipsa. Aut autem possimus sit beatae amet sit nihil corporis et rerum sint sit cumque vero et iusto dolor qui impedit nesciunt. Aut maiores veritatis sit illum sequi et blanditiis architecto. Id Quis minima non voluptas laudantium quo quis galisum non ipsa quos aut aspernatur quisquam est officia porro aut velit commodi. In omnis eligendi cum numquam velit qui dolorem similique. Ea velit mollitia et tempora vero est minus pariatur? Et expedita nisi a laborum eius et reprehenderit autem ab eaque placeat est voluptatum excepturi.  
+  Installation instructions:  
+  npm install  
 
   ## Usage
-  Lorem ipsum dolor sit amet. Non animi facilis et consequatur asperiores aut modi aspernatur. In repudiandae tenetur aut nihil assumenda aut obcaecati quos ex mollitia dolores sit sunt quia quo nobis excepturi. Et vero quam aut quidem dolorum sit internos internos hic quia illum. Eum minus laudantium et quibusdam recusandae cum consequatur cumque ex commodi blanditiis et dolorem cumque est explicabo expedita qui quia sint? Hic dignissimos necessitatibus ut aspernatur distinctio et quia mollitia eum officia quam hic accusamus ducimus sit earum voluptates et dolores distinctio. Aut nihil ipsum et autem corrupti in quisquam dicta sed suscipit asperiores. Ut corporis molestiae et placeat deserunt aut voluptas consequatur. Hic totam blanditiis est magni exercitationem ut deleniti pariatur sit doloremque ipsa est quia eveniet id voluptas ipsa. Aut autem possimus sit beatae amet sit nihil corporis et rerum sint sit cumque vero et iusto dolor qui impedit nesciunt. Aut maiores veritatis sit illum sequi et blanditiis architecto. Id Quis minima non voluptas laudantium quo quis galisum non ipsa quos aut aspernatur quisquam est officia porro aut velit commodi. In omnis eligendi cum numquam velit qui dolorem similique. Ea velit mollitia et tempora vero est minus pariatur? Et expedita nisi a laborum eius et reprehenderit autem ab eaque placeat est voluptatum excepturi.  
+  Usage information:  
+  Run node index.js to begin  
 
   ## License
-  BSD-3-Clause  
+  This application is covered under the MIT license. Please click the link at the top of the page for more information. 
 
   ## Contributing
-  Lorem ipsum dolor sit amet. Non animi facilis et consequatur asperiores aut modi aspernatur. In repudiandae tenetur aut nihil assumenda aut obcaecati quos ex mollitia dolores sit sunt quia quo nobis excepturi. Et vero quam aut quidem dolorum sit internos internos hic quia illum. Eum minus laudantium et quibusdam recusandae cum consequatur cumque ex commodi blanditiis et dolorem cumque est explicabo expedita qui quia sint? Hic dignissimos necessitatibus ut aspernatur distinctio et quia mollitia eum officia quam hic accusamus ducimus sit earum voluptates et dolores distinctio. Aut nihil ipsum et autem corrupti in quisquam dicta sed suscipit asperiores. Ut corporis molestiae et placeat deserunt aut voluptas consequatur. Hic totam blanditiis est magni exercitationem ut deleniti pariatur sit doloremque ipsa est quia eveniet id voluptas ipsa. Aut autem possimus sit beatae amet sit nihil corporis et rerum sint sit cumque vero et iusto dolor qui impedit nesciunt. Aut maiores veritatis sit illum sequi et blanditiis architecto. Id Quis minima non voluptas laudantium quo quis galisum non ipsa quos aut aspernatur quisquam est officia porro aut velit commodi. In omnis eligendi cum numquam velit qui dolorem similique. Ea velit mollitia et tempora vero est minus pariatur? Et expedita nisi a laborum eius et reprehenderit autem ab eaque placeat est voluptatum excepturi.  
+  Guidelines for contributions:  
+  Please fork to contribute  
 
   ## Tests
-  undefined  
-
+  Test instructions:  
+     
+    
   ## Questions
   Contact via GitHub: [sonia-deni](https://github.com/sonia-deni)  
 
   Contact via Email: sonia_deni@hotmail.com
-

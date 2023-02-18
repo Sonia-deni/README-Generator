@@ -20,6 +20,7 @@
   ## Usage
   Usage information:  
   Run node index.js to begin  
+  [Demonstration video](https://watch.screencastify.com/v/7ARLcTPpFn8KUBE85pTh)  
 
   ## License
   This application is covered under the MIT license. Please click the link at the top of the page for more information. 
